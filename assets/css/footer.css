@@ -1,0 +1,96 @@
+
+.footer {
+    padding: 90px 0;
+    position: relative;
+    min-height: 371px;
+    background: var(--light-black);
+
+}
+
+.footer-logo {
+    gap: 20px;
+}
+
+.footer-column {
+    gap: 192px;
+}
+
+.footer-menu-title {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 25px;
+    letter-spacing: 1px;
+    color: var(--light-primary);
+    margin-bottom: 10px;
+}
+
+.footer-menu-list {
+    gap: 10px;
+}
+
+.footer-menu-items {
+    gap: 65px;
+}
+
+.footer-menu-link {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.7px;
+    color: var(--white);
+    transition: .3s;
+
+
+}
+
+.footer-menu-link:hover {
+    color: var(--light-primary);
+
+}
+
+.footer-decor {
+    position: absolute;
+    right: 0;
+    bottom: -3px;
+}
+
+.footer-clue {
+    margin-top: 51px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    color: var(--white);
+
+
+}
+
+@media (max-width: 1400px) {
+}
+
+@media (max-width: 1200px) {
+
+    .footer-decor {
+        max-width: 350px;
+    }
+}
+
+@media (max-width: 992px) {
+
+
+}
+
+@media (max-width: 768px) {
+
+}
+
+@media (max-width: 576px) {
+    .footer-column{
+        flex-direction: column;
+        gap: 40px;
+    }
+    .footer-decor{
+        max-width: 225px;
+    }
+    .footer-clue{
+        margin-top: 40px;
+    }
+}

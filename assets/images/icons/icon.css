@@ -1,0 +1,84 @@
+@charset "UTF-8";
+
+.icon {
+    display: inline-block;
+    height: 1em;
+    width: 1em;
+    mask-size: contain;
+    -webkit-mask-size: contain;
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+    mask-position: center;
+    -webkit-mask-position: center;
+}
+
+.icon-chatgpt {
+    mask-image: url(chatgpt.svg);
+    -webkit-mask-image: url(chatgpt.svg);
+}
+.icon-plus {
+    mask-image: url(plus.svg);
+    -webkit-mask-image: url(plus.svg);
+}
+.icon-plus-blue{
+    mask-image: url(plus.svg);
+    -webkit-mask-image: url(plus.svg);
+}
+.icon-user {
+    mask-image: url(user.svg);
+    -webkit-mask-image: url(user.svg);
+}
+.icon-search{
+    mask-image: url(Search.svg);
+    -webkit-mask-image: url(Search.svg);
+}
+.icon-chat-noti{
+    mask-image: url(Chat-Noti.svg);
+    -webkit-mask-image: url(Chat-Noti.svg);
+}
+.icon-plus2{
+    mask-image: url(Plus2.svg);
+    -webkit-mask-image: url(Plus2.svg);
+}
+.icon-chart{
+    mask-image: url(Chart.svg);
+    -webkit-mask-image: url(Chart.svg);
+}
+.icon-heart{
+    mask-image: url(heart.svg);
+    -webkit-mask-image: url(heart.svg);
+}
+.icon-caduceus{
+    mask-image: url(caduceus.svg);
+    -webkit-mask-image: url(caduceus.svg);
+}
+.icon-medicalHistory{
+    mask-image: url(medicalHistory.svg);
+    -webkit-mask-image: url(medicalHistory.svg);
+}
+.icon-chatgpt2{
+    mask-image: url(chatgpt.svg);
+    -webkit-mask-image: url(chatgpt.svg);
+}
+.icon-caduceus2{
+    mask-image: url(caduceus.svg);
+    -webkit-mask-image: url(caduceus.svg);
+}
+.reviewsIcon{
+    mask-image: url(reviewsIcon.svg);
+    -webkit-mask-image: url(reviewsIcon.svg);
+}
+.icon-care{
+    mask-image: url(care.svg);
+    -webkit-mask-image: url(care.svg);
+
+}
+.icon-star{
+    mask-image: url(star.svg);
+    -webkit-mask-image: url(star.svg);
+
+}
+.icon-arrow{
+    mask-image: url(arrow.svg);
+    -webkit-mask-image: url(arrow.svg);
+}
