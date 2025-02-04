@@ -32,12 +32,16 @@ let reviewsSwiper = new Swiper(".reviews-swiper", {
 
 let howWorkSwiper = new Swiper(".opportunities-swiper", {
     spaceBetween: 30,
-    slidesPerView: 2.4,
+    slidesPerView: 2,
     loop:true,
     pagination: {
         el: '.swiper-pagination',
         clickable: true
 
+    },
+    autoplay: {
+        delay: 3000,
+        disableOnInteraction: false,
     },
 
     navigation: {
@@ -50,7 +54,7 @@ let howWorkSwiper = new Swiper(".opportunities-swiper", {
         576: {slidesPerView: 1.5},
         779: {slidesPerView: 2},
         954: {slidesPerView: 2},
-        1139: {slidesPerView: 2.4},
+        1139: {slidesPerView: 2},
 
     },
 

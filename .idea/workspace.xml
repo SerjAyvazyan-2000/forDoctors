@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="01801c77-05c8-422f-86d1-61b865cf7a91" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/swiper.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/swiper.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,29 +31,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;JavaScript Debug.backgroundRemoval.html.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ToolWindow.documentation.v2.ShowToolbar&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo/Desktop/forDoctors&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.folding&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.backgroundRemoval.html.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ToolWindow.documentation.v2.ShowToolbar": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Lenovo/Desktop/Фриланс/forDoctors",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.folding",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="ReadonlyStatusHandler">
     <option name="SHOW_DIALOG" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Lenovo\Desktop\forDoctors" />
       <recent name="C:\Users\Lenovo\Desktop\forDoctors\assets\images" />
+      <recent name="C:\Users\Lenovo\Desktop\forDoctors" />
       <recent name="C:\Users\Lenovo\Desktop\forDoctors\assets\images\icons" />
       <recent name="C:\Users\Lenovo\Desktop\diplomaWorks\assets\images" />
       <recent name="C:\Users\Lenovo\Desktop\treatment" />
@@ -183,6 +185,9 @@
       <workItem from="1738587314550" duration="673000" />
       <workItem from="1738601824483" duration="15372000" />
       <workItem from="1738619295482" duration="564000" />
+      <workItem from="1738645395826" duration="281000" />
+      <workItem from="1738668517623" duration="43000" />
+      <workItem from="1738693919013" duration="301000" />
     </task>
     <servers />
   </component>
@@ -213,7 +218,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/assets/js/swiper.js</url>
-          <line>31</line>
+          <line>32</line>
           <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
