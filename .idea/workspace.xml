@@ -5,52 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01801c77-05c8-422f-86d1-61b865cf7a91" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/css/home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/advantagesMediaIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/advantagesPicture.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/assistantIcon.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/assistantIcon2.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/assistantMedia.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/chatgpt.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/footerLogo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/footerLogo2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/google.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/heroMedia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/heroMedia.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/howWorksDecor.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/howWorksImg.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/icons/Chart.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/icons/Chat-Noti.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/icons/Plus2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/icons/Search.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/icons/arrow.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/icons/caduceus.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/icons/care.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/icons/chatgpt.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/icons/heart.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/icons/medicalHistory.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/icons/plus.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/icons/reviewsIcon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/icons/star.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/icons/user.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logo2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/medicineItemImg.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/opportunitiesSlide.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/opportunitiesSlide2.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/opportunitiesSlide3.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/opportunitiesSlide4.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/opportunitiesSlide5.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/reviews1.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/reviews2.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/reviews3.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/reviews4.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/reviews5.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/reviewsMediaImg.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/users.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/users.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/wk.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/yandex.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,32 +29,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JavaScript Debug.backgroundRemoval.html.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ToolWindow.documentation.v2.ShowToolbar": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Lenovo/Desktop/analytical",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.folding",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JavaScript Debug.backgroundRemoval.html.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ToolWindow.documentation.v2.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo/Desktop/forDoctors&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.folding&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="ReadonlyStatusHandler">
     <option name="SHOW_DIALOG" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Desktop\forDoctors" />
       <recent name="C:\Users\Lenovo\Desktop\forDoctors\assets\images" />
       <recent name="C:\Users\Lenovo\Desktop\forDoctors\assets\images\icons" />
       <recent name="C:\Users\Lenovo\Desktop\diplomaWorks\assets\images" />
       <recent name="C:\Users\Lenovo\Desktop\treatment" />
-      <recent name="C:\Users\Lenovo\Desktop\treatment\assets\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Lenovo\Desktop\forDoctors\assets\images\icons" />
@@ -226,7 +181,8 @@
       <workItem from="1738577522876" duration="69000" />
       <workItem from="1738586328077" duration="602000" />
       <workItem from="1738587314550" duration="673000" />
-      <workItem from="1738601824483" duration="4096000" />
+      <workItem from="1738601824483" duration="15372000" />
+      <workItem from="1738619295482" duration="564000" />
     </task>
     <servers />
   </component>
@@ -257,7 +213,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/assets/js/swiper.js</url>
-          <line>23</line>
+          <line>31</line>
           <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>

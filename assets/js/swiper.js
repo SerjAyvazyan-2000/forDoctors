@@ -8,6 +8,7 @@ let reviewsSwiper = new Swiper(".reviews-swiper", {
 
     pagination: {
         el: '.reviews-pagination',
+        clickable: true
     },
     navigation: {
         nextEl: '.reviews-button-prev',
@@ -35,6 +36,8 @@ let howWorkSwiper = new Swiper(".opportunities-swiper", {
     loop:true,
     pagination: {
         el: '.swiper-pagination',
+        clickable: true
+
     },
 
     navigation: {
